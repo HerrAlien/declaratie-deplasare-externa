@@ -1,4 +1,4 @@
-/* declaratie2503 - a form to fill during these times
+/* declaratie deplasare externa  - a form to fill during these times
 
 Copyright 2020 Herr_Alien <alexandru.garofide@gmail.com>
 
