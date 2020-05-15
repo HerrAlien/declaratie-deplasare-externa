@@ -73,7 +73,7 @@ h4
 {
     font-style:italic;
     font-weight: normal;
-    margin-top: 0px;
+    margin-top: -10px;
 }
 
 @media screen
@@ -278,8 +278,12 @@ h4
                 padding: 0;
             }
             
-            #motivul-deplasarii
+            #motivul-deplasarii > table > tbody > tr > td
             {
-                border-spacing: 4mm;
+                padding-bottom: 2mm;
+            }
+            #motivul-deplasarii > table
+            {
+                margin-top: 2mm;
             }
 }
